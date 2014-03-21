@@ -62,10 +62,7 @@ public class HTTPSDemo {
             } catch (IOException e) {
                 e.printStackTrace();
             }
-
         }
-
-
     }
 
     static class MessageResult {
